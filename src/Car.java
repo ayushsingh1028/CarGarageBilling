@@ -12,6 +12,8 @@ public class Car {
     }
 
     public String getModel() {
-        return model;
+        return model  ;
     }
+
+
 }
