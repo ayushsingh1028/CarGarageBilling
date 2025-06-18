@@ -12,7 +12,7 @@ public class Car {
     }
 
     public String getModel() {
-        return modellll  ;
+        return model  ;
     }
 
 
